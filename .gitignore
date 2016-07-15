@@ -1,2 +1,5 @@
 # folder dest
-dest/
+# dest/
+
+# folder node_modules
+node_modules/
