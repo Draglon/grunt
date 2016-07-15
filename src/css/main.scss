@@ -1,0 +1,23 @@
+@import "compass/reset";
+
+$bg-color: #ccc;
+
+/* Global Styles*/
+.display-table      {display: table;}
+.display-table-cell {display: table-cell;}
+.display-table-row  {display: table-row;}
+.inline{display: inline-block;}
+.hidden{display: none;}
+
+/* HEADER */
+.header {
+  &-logo {
+    background: $bg-color;
+    height: 100px;
+  }
+}
+
+/* CONTENT */
+
+
+/* FOOTER */
